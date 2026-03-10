@@ -1,0 +1,7 @@
+{
+  "name": "Centro de Treinamento da Expressão",
+  "description": "Uma plataforma holística para o treinamento da expressão, arte, espírito e corpo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
